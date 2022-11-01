@@ -42,6 +42,8 @@ body{
     margin: 0 auto;
 }
 
+/* image and the text on image */
+
 .onimage{
 
 font-size: 68px;
@@ -52,6 +54,8 @@ top: 26%;
 left: 50%;
 transform: translate(-50%, -50%);
 }
+
+/* navigation bar */
 
 
 .nav li {
@@ -86,6 +90,9 @@ nav li:active{
     background-color: black;
 }
 
+/* secound part of website Heading for the paragraph and small image*/
+
+
 h2{
 	padding-top: 10px;
     font-size: 33px;
@@ -118,7 +125,8 @@ h2{
    
 }
 
-
+/*
+heading and about the list style*/
 
 h3{
     font-size: 29px;
@@ -133,7 +141,8 @@ h3{
 	padding-left: 30px;
 }
 
-
+/*
+heading for the fill boxes and radio buttons in boc */
 
 h4{
     font-size: 29px;
@@ -184,8 +193,9 @@ label{
     padding-bottom: 10px;
 }
 
-input[type='text']{
-    box-sizing: border-box;
+input[type='text']
+
+{   box-sizing: border-box;
     width: 100%;
     height: 29px;
     border: 1px solid black;
@@ -221,6 +231,7 @@ main .container{
 margin-bottom: 10px;
 }
 
+/* footer for the copyright style*/
 
 footer{
 
